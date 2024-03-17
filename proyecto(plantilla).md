@@ -29,7 +29,7 @@ Tipo/Género:
 ### Historia
 María Fernanda, una mujer de origen mexicano cansada de la vida, se ve envuelta en una vorágine burocrática por la tramitación de su visado en Estados Unidos. Migra a Illinois persiguiendo el sueño americano, truncado por Stephen J. Friedman, administrativo de la sección de inmigración. La situación va escalando y decide tomarse la justicia por su mano. 
 
-*¿Cuántas naranjas se necesitan para resolver un problema burocrática?*
+*¿Cuántas naranjas se necesitan para resolver un problema burocrático?*
 
 ### Contexto
 Nuestra historia transcurre durante los años 70, en Illinois, EEUU. Es de saber general que, en esta década, se empezaba a implantar el ordenador como herramienta de trabajo, pero se prefería seguir el modelo tradicional porque se desconfiaba de esta nueva tecnología. Es por esto que constantemente se traspapelaban documentos y los tramites se volvían angustiosos, largos y tediosos.
