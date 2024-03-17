@@ -2,12 +2,12 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: Grupo 7 - Ficción (Vitamina C)
 
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [x] Fiction/Ciberpunk  
 - [ ] Reality/tribus urbanas  
 - [ ] Comic
 
@@ -17,24 +17,30 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+**Nombre: María Fernanda Hernández Bautista**
 
-Nombre: 
+![Ficha María Fernanda](https://i.postimg.cc/qvh2Fg45/1.jpg)
+
+**Nombre: Stephen J. Friedman**
+
+![Ficha Stephen](https://i.postimg.cc/MG1VW4c0/2.jpg)
 
 
 ### Historia
+María Fernanda, una mujer de origen mexicano cansada de la vida, se ve envuelta en una vorágine burocrática por la tramitación de su visado en Estados Unidos. Migra a Illinois persiguiendo el sueño americano, truncado por Stephen J. Friedman, administrativo de la sección de inmigración. La situación va escalando y decide tomarse la justicia por su mano. 
 
+*¿Cuántas naranjas se necesitan para resolver un problema burocrática?*
 
 ### Contexto
-
+Nuestra historia transcurre durante los años 70, en Illinois, EEUU. Es de saber general que, en esta década, se empezaba a implantar el ordenador como herramienta de trabajo, pero se prefería seguir el modelo tradicional porque se desconfiaba de esta nueva tecnología. Es por esto que constantemente se traspapelaban documentos y los tramites se volvían angustiosos, largos y tediosos.
 
 ### Conflicto 
-
+El conflicto principal de nuestra protagonista se centra, principalmente, en conseguir el visado americano para trabajar en su trabajo soñado. Es aquí donde radica la figura de Friedman, que se interpone entre María Fernanda y su meta. Teniendo todo esto en cuenta, comienza una disputa entre ambos, en la que los dos van a intentar imponer sus valores.
 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: [¿Qué playlist eres de vitamina C](https://h5p.org/node/1479251) , [¿Qué personaje eres de Vitamina C](https://h5p.org/node/1479233)
 
 
 - Banner/Teaser:  (enlace) 
@@ -57,9 +63,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- 🍇: Clara Cagigas Amaro
+- 🍌: Alba María Reyes Polo
+- 🍎: Laura Rodríguez Déniz
+- 🍍: Sabina Rosado Romero
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
