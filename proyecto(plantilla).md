@@ -43,7 +43,7 @@ El conflicto principal de nuestra protagonista se centra, principalmente, en con
 - Personaje: [¿Qué playlist eres de vitamina C](https://h5p.org/node/1479251) , [¿Qué personaje eres de Vitamina C](https://h5p.org/node/1479233)
 
 
-- Banner/Teaser:  [Teaser Protopie](https://cloud.protopie.io/p/4c76fdda6e404d9026cec586) , [ARCWEAVE Aventura Interactiva](https://arcweave.com/app/project/WNlKVQW0z1)
+- Banner/Teaser:  [Teaser Protopie](https://cloud.protopie.io/p/4c76fdda6e404d9026cec586) , [ARCWEAVE Aventura Interactiva](https://arcweave.com/app/project/WNlKVQW0z1/play)
 
 
 - Storytelling: (enlace) 
