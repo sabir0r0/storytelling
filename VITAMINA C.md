@@ -46,12 +46,14 @@ El conflicto principal de nuestra protagonista se centra, principalmente, en con
 - Banner/Teaser:  [Teaser Protopie](https://cloud.protopie.io/p/4c76fdda6e404d9026cec586) , [ARCWEAVE Aventura Interactiva](https://arcweave.com/app/project/WNlKVQW0z1/play)
 
 
-- Storytelling: (enlace) 
+- Storytelling: Para acceder pulque [aquí](sabir0r0.github.io/vita) 
 
 
 
 
 ### Conclusiones/Valoración del equipo
+Estamos más que satisfechas con nuestro trabajo. Como grupo estamos convencidas de que hemos aprovechado en su totalidad todas las herramientas que se nos han presentado y proporcionado para la expansión y narración de nuestro relato.
+
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
